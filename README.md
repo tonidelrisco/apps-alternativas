@@ -67,6 +67,8 @@ Gmail y Outlook/Hotmail son los servicios de correo más utilizados por los usua
 	* Aplicaciones móviles disponibles para iOS y Android.
 * **[Tutanota](https://tutanota.com/) (recomendado).**
 	* Ofrece *cifrado extremo a extremo* (E2EE) combinando cifrado simétrico y asimétrico.
+	
+**MUY IMPORTANTE: Si vas a cambiarte a ProtonMail, asegúrate de no usarlo desde Google Chrome. El sistema de privacidad de ProtonMail no sirve de nada si usas un navegador que no respeta tu privacidad, como Chrome. [Véase este enlace](https://www.redeszone.net/2018/11/21/protonmail-google-leer-correos/).**
 
 ### Plataformas de videojuegos
 

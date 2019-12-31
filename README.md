@@ -82,7 +82,7 @@ Spotify es la plataforma de música más conocida y utilizada. Por desgracia, co
 * **[mStream](https://www.mstream.io/).**
 	* Permite acceder a nuestra colección de música y vídeos desde cualquier lugar mediante *streaming*.
 	* Es *open-source*.
-	* Cuenta con aplicaciones móviles para Android/iOS.
+	* Cuenta con aplicación móvil para Android (y también hay una de iOS en desarrollo).
 * **[Funkwhale](https://funkwhale.audio/).**
 	* Permite subir nuestra colección personal de música y escucharla desde otras plataformas.
 	* Es *open-source* y descentralizada.

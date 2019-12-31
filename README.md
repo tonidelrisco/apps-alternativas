@@ -79,14 +79,14 @@ Por otro lado, si eres usuario de GNU/Linux, [Lutris](https://lutris.net/) podr�
 
 Spotify es la plataforma de música más conocida y utilizada. Por desgracia, como explica Richard Stallman [en este artículo de su página web](https://stallman.org/spotify.html), también cuenta con un sistema de DRM y además rastrea a los usuarios. Por ello, aquí propongo una serie de alternativas:
 
-* **[mStream](https://www.mstream.io/).**
-	* Permite acceder a nuestra colección de música y vídeos desde cualquier lugar mediante *streaming*.
-	* Es *open-source*.
-	* Cuenta con aplicación móvil para Android (y también hay una de iOS en desarrollo).
 * **[Funkwhale](https://funkwhale.audio/).**
 	* Permite subir nuestra colección personal de música y escucharla desde otras plataformas.
 	* Es *open-source* y descentralizada.
 	* Cuenta con aplicaciones móviles para Android/iOS.
+* **[mStream](https://www.mstream.io/).**
+	* Permite acceder a nuestra colección de música y vídeos desde cualquier lugar mediante *streaming*.
+	* Es *open-source*.
+	* Cuenta con aplicación móvil para Android (y también hay una de iOS en desarrollo).
 * **[Ampache](http://ampache.org/).**
 	* Permite acceder a nuestra colección de música y vídeos desde cualquier lugar mediante *streaming*.
 	* Es *open-source*.

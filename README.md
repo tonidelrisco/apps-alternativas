@@ -22,14 +22,7 @@ Tener un navegador web en nuestros dispositivos personales es algo imprescindibl
 
 He aquí algunas alternativas a Google Chrome, Microsoft Edge/Internet Explorer o Apple Safari:
 
-* **[Brave](https://brave.com/) (muy recomendado). Mi opción preferida.**
-	* Disponible para Windows, GNU/Linux, MacOS, Android e iOS.
-	* Es *open-source*.
-	* Misma interfaz que Chrome, pero mejor rendimiento.
-	* Bloqueador de publicidad y bloqueador de rastreo incorporados.
-	* Soporte para WebTorrent, lo cual nos permite descargar torrents directamente desde el navegador.
-	* El programa Brave Rewards nos permite ganar criptomonedas BAT.
-* **[Firefox](https://www.mozilla.org/es-ES/firefox/new/) (muy recomendado). Mi segunda opción preferida.**
+* **[Firefox](https://www.mozilla.org/es-ES/firefox/new/) (muy recomendado).**
 	* Disponible para Windows, GNU/Linux, MacOS, Android e iOS.
 	* Es *open-source*.
 	* Se trata de un veterano en el mundo de los navegadores web: lleva disponible desde el año 2002.
@@ -41,7 +34,7 @@ He aquí algunas alternativas a Google Chrome, Microsoft Edge/Internet Explorer 
 	* Es parcialmente *open-source*.
 	* Aún más veterano que Chrome y Firefox: lleva disponible desde 1995.
 	* VPN y bloqueador de publicidad incorporados.
-* **[Epic](https://epicbrowser.com/) (recomendado). Posiblemente el mejor en cuanto a seguridad.**
+* **[Epic](https://epicbrowser.com/) (recomendado).**
 	* Disponible para Windows y MacOS.
 	* Es parcialmente *open-source*.
 	* Misma interfaz que Chrome, pero mejor rendimiento.
@@ -51,6 +44,8 @@ He aquí algunas alternativas a Google Chrome, Microsoft Edge/Internet Explorer 
 	* Es parcialmente *open-source*.
 	* Interfaz similar a la de Chrome, Brave o Epic.
 	* Muy personalizable, y también ofrece opciones para proteger nuestra privacidad.
+	
+**ACTUALIZACIÓN IMPORTANTE (31/12/2019). Ante [ciertos comentarios](https://securityboulevard.com/2019/02/brave-browser-sacrifices-security/) que he oído acerca de Brave, anteriormente citado como mejor navegador web, he decidido eliminarlo de la lista. Por lo tanto, Firefox pasa a ser el mejor navegador web según este documento.**
 
 ### Correo electrónico
 
